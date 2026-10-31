@@ -1,3 +1,4 @@
+# KR2: Ратасеп.
 import os
 import socket
 
